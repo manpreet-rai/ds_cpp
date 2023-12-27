@@ -4,5 +4,5 @@ project(ds_cpp)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(ds_cpp main.cpp
-        LinkedList.cpp
-        LinkedList.h)
+        LinkedList/LinkedList.cpp
+        LinkedList/LinkedList.h)

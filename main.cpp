@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LinkedList.h"
+#include "LinkedList/LinkedList.h"
 
 int main() {
     std::cout << "Welcome to Linked List" << std::endl;
